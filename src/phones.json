@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Ipad",
+    "picture": "images/ipad.jpeg",
+    "age": 2020,
+    "breed": "Ipad Air",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Ipad",
+    "picture": "images/ipad.jpeg",
+    "age": 2020,
+    "breed": "Ipad Air",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Samsung",
+    "picture": "images/samsung.jpeg",
+    "age": 2020,
+    "breed": "Samsung Galaxy",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Macbook",
+    "picture": "images/macbook.jpeg",
+    "age": 2020,
+    "breed": "Macbook Pro",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Samsung",
+    "picture": "images/samsung.jpeg",
+    "age": 2020,
+    "breed": "Samsung Galaxy",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Samsung",
+    "picture": "images/samsung.jpeg",
+    "age": 2020,
+    "breed": "Samsung Galaxy",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Iphone",
+    "picture": "images/iphone.jpeg",
+    "age": 2020,
+    "breed": "Iphone 12",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Iphone",
+    "picture": "images/iphone.jpeg",
+    "age": 2020,
+    "breed": "Iphone 12",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Samsung",
+    "picture": "images/samsung.jpeg",
+    "age": 2020,
+    "breed": "Samsung Galaxy",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Macbook",
+    "picture": "images/macbook.jpeg",
+    "age": 2020,
+    "breed": "Macbook Pro",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Macbook",
+    "picture": "images/macbook.jpeg",
+    "age": 2020,
+    "breed": "Macbook Pro",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Ipad",
+    "picture": "images/ipad.jpeg",
+    "age": 2020,
+    "breed": "Ipad Air",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Samsung",
+    "picture": "images/samsung.jpeg",
+    "age": 2020,
+    "breed": "Samsung Galaxy",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Iphone",
+    "picture": "images/iphone.jpeg",
+    "age": 2020,
+    "breed": "Iphone 12",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Iphone",
+    "picture": "images/iphone.jpeg",
+    "age": 2020,
+    "breed": "Iphone 12",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Iphone",
+    "picture": "images/iphone.jpeg",
+    "age": 2020,
+    "breed": "Iphone 12",
+    "location": "Dawn, Wisconsin"
+  }
+]
